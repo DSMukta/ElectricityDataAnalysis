@@ -1,0 +1,9 @@
+Push the new updated code from local
+a. git add. 
+b. git commit -m "initial commit message"
+c. git push origin main [if you want to push from main  branch]
+Change the branch
+a. git checkout branchname
+Before start change pull the updated code from global
+a. git status[to check if there have any change]
+b. git pull
